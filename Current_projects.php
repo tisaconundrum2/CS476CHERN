@@ -23,31 +23,16 @@
 <div id="Content">
 
 <h1>Current Projects</h1>
-<p>Welcome (Week 4)!! Our club will be held this Friday (Oct 2nd) in Room 235 in the <a href="http://www.panoramio.com/photo/40205300">Engineering Building</a> from 1:30 - 2:30pm<br />
+<p>Lorem Ip sum(Project)<br />
     <br />
-    <img src="LumberTron_ico.png" width="114"><br />
-    <img src="http://www.gcumedia.com/first-year-experience/images/week4.png" width="360"/><img src="http://arduinoarts.com/wp-content/uploads/2011/08/arduino_uno_test.jpg" width="360" /><br>
-  Welcome to our fourth/fifth week to the Robotics club. Sorry there was no club last week. Wasn't feeling well. Come today and learn a little more about microcontrollers! This should be a fun day, we'll be learning about microcontrollers and how they work. <a href="../CS476/PPoint/Microcontrollers.pptx">powerpoint</a> attached.<br />
-  <br />
-  My name is Nicholas, I'll be teaching you the basics of robotics, and hopefully the part where we build an actual robot, all before the end of the semester. I have a few ideas in mind, and if you have an idea yourself please shout at me.<br />
-  <br />
-  Also, no one has been complaining about scheduling conflicts. Please, if there are scheduling conflicts; email me, I want to know.<br />
-  <br />
-  Welcome to Week 4/5 [3rd meeting].
-  <br />
-  <br />
-Attached: <a href="../CS476/PPoint/Microcontrollers.pptx">Powerpoint</a>
-<p>Week4:
-  Programming a microcontroller! What is C and C++<br />
-  #include soundsHard.h<br />
-  int main(WHAT){<br />
-  ___now(you,have,lost,me)<br />}<br />void now(int,int,int,int){<br />___not.that(hard);<br />}
-<p>
-Week5: Diving into libraries <br />
-  We'll be checking out Code and Objects!<br />
-  How/Why it simplifies a programmer's life<br />
+    <img src="CHERN.png" width="114"><br /><br />
 
-
+    <img src="http://rlv.zcache.com/linguistics_major_powered_by_coffee_ipad_mini_case-r6c9c3e67b8ab4a65a59ba3b04b1d796e_w9wmu_8byvr_324.jpg" width="360"/><img src="http://image.slidesharecdn.com/ed0f148d-10c2-4ba7-9f09-cabac43a9ebe-150323180402-conversion-gate01/95/linguistics-101-9-638.jpg?cb=1427133964" width="360"/><br>
+    Pork loin flank drumstick shank, landjaeger spare ribs bacon strip steak pork. Tenderloin jerky shankle ham hock t-bone meatball venison kielbasa hamburger filet mignon tail. Prosciutto tail doner pork loin cupim spare ribs pork chop drumstick pastrami picanha. Fatback picanha strip steak chuck, boudin meatloaf kevin tri-tip shoulder shankle filet mignon andouille. Chuck short loin t-bone bresaola cow, flank leberkas beef ribs salami capicola chicken.
+<br />
+<p>tail short loin boudin landjaeger ham hock biltong pork loin pastrami. Tri-tip frankfurter fatback shankle jowl turkey cow chuck pork chop swine salami. Meatloaf ham hock venison pork chop tri-tip capicola shoulder chicken short loin pig ball tip beef. Tenderloin brisket picanha kielbasa pancetta short ribs. Andouille swine pork belly sirloin cow ribeye capicola ham salami.
+<br />
+<br />
 </div>
 
 <?php

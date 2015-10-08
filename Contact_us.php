@@ -136,8 +136,11 @@ function validateForm(){
     <input type="text" name="email" onBlur="validateForm()"><br>
     <label>Pick an address:</label>
         <select name="emailto" id="emailing-to">
-            <option value="nau.robotics@gmail.com">nau.robotics@gmail.com</option>
-            <option value="ngf4@nau.edu">ngf4@nau.edu</option>
+            <option value="ngf4@nau.edu">Nicholas Finch ngf4@nau.edu</option>
+            <option value="cg695@nau.edu">Cameron Gaskin cg695@nau.edu</option>
+            <option value="harrison@nau.edu">Harrison Lambeth harrison@nau.edu</option>
+            <option value="eld66@nau.edu">Erik Dixon eld66@nau.edu</option>
+
         </select><br>
     <label>Subject:
     <textarea name="subject" rows="1" cols="50" onBlur="validateForm()"></textarea><br>

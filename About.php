@@ -6,11 +6,6 @@
 
 
 <!--Header-->
-<style type="text/css">
-<!--
-
--->
-</style>
 </html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <link rel="stylesheet" type="text/css" href="style.css">
@@ -23,19 +18,15 @@
 <div id="Content">
 
 <h1>About Us</h1>
-<p>
-Our Meeting times are Friday's @ 1:30 pm in the Engineering Building of NAU, feel free to drop by.<br />
-<br />
-We at NAU Robotics strive for creativity and a fun environment. Originally called the FIRST Robotics club, this club was founded by President Hannah Kosinsky in the Fall of 2011. The club was created to work in tandem with the international FIRST program. Our club members volunteered at local K-12 schools that had a need for a mentor, and they volunteered at local FIRST events.<br />
-<br />
-In the case of miscommunication, the club was not reactivated for the second year, but eventually was started back up with the help of Dwayne Codding, the second President. He has since then become our club organizer, and still remains a big part of our club. <br />
-<br />
-Presently, the club was renamed as the Lumber Trons, and Nicholas Finch was elected as the current club president. He currently is putting in his best effort to make this a fun and rewarding year for the Lumber Trons, which includes the introduction of group projects for NAU students interested in robotics.<br />
-<br />
-So come on down to our Lumbertrons Club and enjoy a few minutes with us.<br />
-<br />
-- Dwayne Codding<br />
-</p>
+<p><img src = "Profile_Pics/harrison.png" width="120" />
+  <strong>H</strong>arrison ipsum dolor amet ham spare ribs meatball shoulder tongue pork belly bresaola. Meatball filet mignon meatloaf chuck pork loin picanha. Bresaola filet mignon t-bone, swine tenderloin sausage pork loin. T-bone corned beef venison chuck pork loin porchetta pork turducken leberkas brisket meatball. Tail alcatra corned beef, beef ribs ball tip chicken boudin shankle shank pork belly ribeye turkey pork chop.
+<p><img src = "Profile_Pics/nick.png" width="120" /><strong>N</strong>ick Ribeye kevin landjaeger jerky flank pork belly. Andouille swine porchetta, tongue pastrami short loin doner turducken landjaeger sausage hamburger brisket jowl. Spare ribs beef rump chuck, pork turkey tenderloin. Filet mignon venison salami ball tip tongue porchetta biltong shank ham hock picanha spare ribs swine.</p>
+<div>
+  <p><img src = "Profile_Pics/filler_.png" width="120" /><strong>C</strong>ameron Meatloaf hamburger leberkas pork pork loin pastrami picanha drumstick venison sausage. Shank corned beef ground round chuck swine, spare ribs leberkas. Ground round tongue spare ribs biltong shoulder picanha ham. Spare ribs venison kevin corned beef pork, pancetta fatback leberkas. Hamburger pork loin kielbasa spare ribs frankfurter. Andouille cupim ground round swine salami rump kevin tail turkey cow ham jowl fatback bacon t-bone.</p>
+  <p><img src = "Profile_Pics/filler_.png" width="120" /><strong>E</strong>rik Leberkas doner alcatra, shank ground round brisket turkey ham strip steak tongue pig pancetta fatback salami ball tip. Leberkas ribeye meatball biltong pastrami spare ribs t-bone brisket ham pig short loin picanha short ribs. Pancetta beef frankfurter ground round rump, tail kevin kielbasa pork chop shankle. Filet mignon meatball flank capicola beef ribs chuck rump frankfurter. Drumstick cupim jerky fatback pancetta meatloaf ribeye, meatball beef ribs biltong salami ground round leberkas. Pig biltong doner tail.</p>
+  </div>
+<div>Does your lorem ipsum text long for something a little meatier? Give our generator a try… it’s tasty!<br />
+</div>
 </div>
 
 <!--Footer-->

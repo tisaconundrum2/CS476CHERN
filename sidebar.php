@@ -11,9 +11,6 @@ $text = <<<MARKER
 			<span><a href="index.php" class="header">Home</a></span>
 		</div>                                        
 		<div class="menuItem">
-			<span><a href="subscribe.php" class="header">Subscribe</a></span>
-		</div>                                        
-		<div class="menuItem">
 			<span class="header">Projects</span>
 			<!--This is a menu item with sub items-->
 			<div class="menuSubItems">
@@ -30,9 +27,6 @@ $text = <<<MARKER
 		</div>
 		<div class="menuItem">			
 			<span><a href="Contact_us.php" class="header">Contact Us</a></span>
-		</div>
-		<div class="menuItem">			
-			<span><a href="forum/index.php" class="header"><strike>Forums</strike></a></span>
 		</div>
 	</div>
 </div>

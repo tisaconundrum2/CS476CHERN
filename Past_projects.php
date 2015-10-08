@@ -24,35 +24,8 @@
 
 <h1>Past Projects</h1>
 
-<?php
-/*
-this is done to clean up the page full of text.
-utilize the template.php file to create the next
-set of past projects posts. This will ensure a clean
-working page. Of course it doesn't have to be
-done this way. Just a guide.
-the next proj[11].php should be on top of 
-proj[0].php (numbering was badly implemented)
- 
-*/
-include_once('projects/proj[15].php');
-include_once('projects/proj[14].php');
-include_once('projects/proj[11].php');
-include_once('projects/proj[13].php');
-include_once('projects/proj[12].php');
-include_once('projects/proj[0].php');
-include_once('projects/proj[1].php');
-include_once('projects/proj[2].php');
-include_once('projects/proj[3].php');
-include_once('projects/proj[4].php');
-include_once('projects/proj[5].php');
-include_once('projects/proj[6].php');
-include_once('projects/proj[7].php');
-include_once('projects/proj[8].php');
-include_once('projects/proj[9].php');
-include_once('projects/proj[10].php');
-
-?>
+<p>Test Test Test Test Flank kevin short loin pork loin jowl tenderloin. Hamburger alcatra tongue chuck pig short ribs salami, cupim jowl. Frankfurter flank bacon picanha filet mignon brisket salami turducken sirloin t-bone. Beef tail sausage pork chop.
+<br />
 
 </div>
 
